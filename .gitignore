@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML Artifacts
+artifacts/
+mlruns/
+
+# Data
+data/raw/
+data/processed/
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.onnx
+
+# Mac
+.DS_Store
