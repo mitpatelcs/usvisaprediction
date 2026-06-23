@@ -220,6 +220,7 @@ __marimo__/
 # ML Artifacts
 artifacts/
 mlruns/
+mlflow.db
 
 # Data
 data/raw/
@@ -234,3 +235,12 @@ data/processed/
 
 # Mac
 .DS_Store
+
+# VS Code
+.vscode/
+
+# CatBoost
+catboost_info/
+
+
+

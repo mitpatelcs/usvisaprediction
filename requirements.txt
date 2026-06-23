@@ -12,3 +12,6 @@ joblib
 great-expectations
 pytest
 scipy
+xgboost
+catboost
+optuna
