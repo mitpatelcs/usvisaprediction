@@ -1,6 +1,5 @@
 from xgboost import XGBClassifier
 
-
 def train_model(X_train, y_train):
     """
     Train the final XGBoost model.
